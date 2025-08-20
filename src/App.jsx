@@ -4,7 +4,7 @@ import { Route, Routes } from 'react-router-dom'
 import Home from './pages/Home/Home'
 import Footer from './component/Footer/Footer'
 import LoginPopup from './component/LoginPopup/LoginPopup'
-import Cart from './pages/Cart/cart'
+import Cart from './pages/Cart/Cart'
 import PlaceOrder from './pages/PlaceOrder/PlaceOrder'
 
 

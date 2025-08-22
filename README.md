@@ -7,7 +7,7 @@ This project demonstrates modern React development practices including component
 🚀 Features
 ✅ Browse food items by category 
 ✅ Add items to cart 
-✅ Manage cart (increase, decrease, remove items) 
+✅ Manage cart (increase, decrease, remove items)
 ✅ Order summary & checkout page 
 ✅ Fully responsive design
 ✅ Clean and reusable components

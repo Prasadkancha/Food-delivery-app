@@ -1,14 +1,14 @@
-#🍔 Food Delivery App (React JS)
+🍔 #Food Delivery App (React JS)
 
 A Food Delivery Web Application built with React JS.
 This project demonstrates modern React development practices including component-based architecture, state management, and responsive UI.
 # https://food-deli-frontend-website.netlify.app/
 
 🚀 Features
-✅ Browse food items by category
-✅ Add items to cart
-✅ Manage cart (increase, decrease, remove items)
-✅ Order summary & checkout page
+✅ Browse food items by category /n
+✅ Add items to cart 
+✅ Manage cart (increase, decrease, remove items) 
+✅ Order summary & checkout page 
 ✅ Fully responsive design
 ✅ Clean and reusable components
 
